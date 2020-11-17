@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestRecords", "TestRecords\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmallTests", "SmallTests\SmallTests.csproj", "{93E18EB7-2CDE-43A4-B32E-96F0B74EEB1B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAutoGenerator", "TestAutoGenerator\TestAutoGenerator.csproj", "{9D17DFC6-687F-4062-A459-FC962A85D238}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{93E18EB7-2CDE-43A4-B32E-96F0B74EEB1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93E18EB7-2CDE-43A4-B32E-96F0B74EEB1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93E18EB7-2CDE-43A4-B32E-96F0B74EEB1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D17DFC6-687F-4062-A459-FC962A85D238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D17DFC6-687F-4062-A459-FC962A85D238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D17DFC6-687F-4062-A459-FC962A85D238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D17DFC6-687F-4062-A459-FC962A85D238}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
